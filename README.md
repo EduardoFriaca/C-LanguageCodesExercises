@@ -1,5 +1,4 @@
-# Repository Name
-
+# C-Exercises
 Welcome to my repository! Here you will find various codes that I have developed. To better understand what each code does, I ask that you translate the titles of the codes into English or your preferred language.
 
 ## Translating Titles
